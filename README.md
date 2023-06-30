@@ -24,7 +24,6 @@ To get started with the Minimal Web API, follow these steps:
 3.  Run the application:
     ``` 
        dotnet run
-
 ## The API will start running on https://localhost:5001 (or http://localhost:5000).
 
 ## Usage
